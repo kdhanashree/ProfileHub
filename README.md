@@ -1,5 +1,7 @@
 # **Profile Hub**  
 **A user profiles management platform for frontend case study**  
+## 📽 Demo Video  
+[Watch the Demo Video](https://drive.google.com/file/d/1y5bUN-0THlh80GL3oF1JF-QJ5xrO4GQk/view)  
 
 ## **Overview**  
 Profile Hub is a user profile management platform designed for frontend case study purposes. It allows role-based profile management, where only admins can modify user data while regular users have read-only access.  
